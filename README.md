@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Volleyy11 (17 y.o)
-- 👀 I’m interested in webdev(python,html,css)
-- 🌱 I’m currently learning flask
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord-arteem#6337
+- 👋 Hi, I’m Volleyy11 (18 y.o)
+- 👀 I’m interested in webdev
+
                       
 
 <!---
